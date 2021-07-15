@@ -187,7 +187,7 @@ body {
 .sidebar-section {
   background-color: #1e2939;
   width: 370px;
-  padding: 40px;
+  padding: 40px 0 40px 0;
 }
 
 .my-photo {
@@ -196,6 +196,10 @@ body {
   left: 40px;
   top: 80px;
   background: url(photo_2020-09-27_21-00-11.jpg);
+}
+
+.sidebar-text {
+  padding: 0 40px 0 40px;
 }
 
 .contacts-section,
